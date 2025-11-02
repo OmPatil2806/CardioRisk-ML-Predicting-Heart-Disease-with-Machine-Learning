@@ -49,6 +49,10 @@ heart-disease-prediction/
 4. Incorporate more diverse and extensive datasets to improve generalizability.
 
 **👤Author:- Om Patil**
+
 📧 Data Science & Machine Learning Enthusiast
+
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/om-patil-039863369/)
+
 👨‍💻GitHub Profile:** [Om Patil](https://github.com/OmPatil2806)
+
