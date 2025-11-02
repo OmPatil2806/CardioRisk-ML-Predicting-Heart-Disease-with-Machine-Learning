@@ -54,5 +54,5 @@ heart-disease-prediction/
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/om-patil-039863369/)
 
-👨‍💻GitHub Profile:** [Om Patil](https://github.com/OmPatil2806)
+👨‍💻GitHub Profile: [Om Patil](https://github.com/OmPatil2806)
 
